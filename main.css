@@ -1,0 +1,32 @@
+html body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 20px auto;
+    width: 25%;
+    height: 25%;
+}
+
+ul li {
+    list-style-type: disc;
+    margin: 10px;
+    height: 25%;
+}
+
+.item {
+    margin: 10px;
+}
+
+.item button {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
